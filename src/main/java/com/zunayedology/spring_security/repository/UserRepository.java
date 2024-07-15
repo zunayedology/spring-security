@@ -1,6 +1,6 @@
 package com.zunayedology.spring_security.repository;
 
-import com.zunayedology.spring_security.user.User;
+import com.zunayedology.spring_security.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

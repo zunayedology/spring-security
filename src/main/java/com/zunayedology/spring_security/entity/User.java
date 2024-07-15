@@ -1,4 +1,4 @@
-package com.zunayedology.spring_security.user;
+package com.zunayedology.spring_security.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
